@@ -6,7 +6,6 @@
     <groupId>net.rgielen.maven</groupId>
     <artifactId>maven-tutor</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
 
 </project>
 
