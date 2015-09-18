@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
 	<description>
-		Our companies global POM
+		Our companies global POM with all the nice configs
 	</description>
 	
 	<distributionManagement>
