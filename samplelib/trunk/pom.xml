@@ -9,10 +9,10 @@
 	</parent>
 	
     <artifactId>samplelib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
 	<scm>
-		<developerConnection>scm:svn:https://svn.code.sf.net/p/maventraining/code/samplelib/tags/samplelib-1.0.0</developerConnection>
+		<developerConnection>scm:svn:https://svn.code.sf.net/p/maventraining/code/samplelib/trunk</developerConnection>
 	</scm>
 
 	<build>
