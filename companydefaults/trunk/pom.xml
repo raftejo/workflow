@@ -11,6 +11,9 @@
 	<description>
 		Our companies global POM with all the nice configs
 	</description>
+	<scm>
+		<developerConnection>scm:svn:https://svn.code.sf.net/p/maventraining/code/companydefaults/trunk</developerConnection>
+	</scm>
 	
 	<distributionManagement>
 		<repository>
