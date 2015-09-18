@@ -19,6 +19,11 @@
 			<artifactId>multimodule-service</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+		<dependency>
+		    <groupId>net.rgielen.maven</groupId>
+		    <artifactId>samplelib</artifactId>
+		    <version>1.0.0-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 </project>
