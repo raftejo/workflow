@@ -4,14 +4,14 @@
 
     <groupId>net.rgielen.maven</groupId>
     <artifactId>companydefaults</artifactId>
-    <version>2</version>
+    <version>3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
 	<description>
 		Our companies global POM with all the nice configs
 	</description>
 	<scm>
-		<developerConnection>scm:svn:https://svn.code.sf.net/p/maventraining/code/companydefaults/tags/companydefaults-2</developerConnection>
+		<developerConnection>scm:svn:https://svn.code.sf.net/p/maventraining/code/companydefaults/trunk</developerConnection>
 	</scm>
 	
 	<distributionManagement>
